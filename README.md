@@ -1,2 +1,3 @@
 # git_test
-F1rst P0$t!
+My first GitHub Repo!
+Howdy Odinites!?!?
